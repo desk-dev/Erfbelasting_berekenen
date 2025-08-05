@@ -1,2 +1,2 @@
-# Erfbelasting_berekenen
-Hoeveel erfbelasting ga je betalen over je ontvangen van wat je erft?
+# Erfbelasting berekenen
+Hoeveel erfbelasting moet je betalen over wat je erft?
